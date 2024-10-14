@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\שולחן העבודה\software ingeneering\year3 semester2\C++\Library\Library\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library (7)\Library\x64\Debug\Library.exe
+C:\Users\User\OneDrive\שולחן העבודה\software ingeneering\year3 semester2\C++\OriLibrary\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library (10)\OriLibrary\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library_Part_3\OriLibrary\x64\Debug\Library.exe
+C:\Users\orika\Downloads\Library_Part_3 (1)\Library_Part_3\x64\Debug\Library.exe
+C:\Users\User\OneDrive\שולחן העבודה\software ingeneering\year3 semester2\C++\Library_Part_3\x64\Debug\Library.exe
+C:\Users\orika\Desktop\לימודים\שנה ב סמסטר ב\++c\חלק 3\Library_Peleg_Asraf_Ori_katz_Part_3\Library_Peleg_Asraf_Ori_katz_Part_3\Library_Part_3\x64\Debug\Library.exe

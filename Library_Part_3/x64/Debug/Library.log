@@ -1,0 +1,16 @@
+﻿  Administrator.cpp
+  Book.cpp
+  Date.cpp
+  DigitalBookAdapter.cpp
+  Ebook.cpp
+  Employee.cpp
+  ExternalDigitalBook.cpp
+  Library.cpp
+  Loan.cpp
+  main.cpp
+  Member.cpp
+  MemberEmployee.cpp
+  Notebook.cpp
+  PhysicalBook.cpp
+  Generating Code...
+  Library.vcxproj -> C:\Users\orika\Desktop\לימודים\שנה ב סמסטר ב\++c\חלק 3\Library_Peleg_Asraf_Ori_katz_Part_3\Library_Peleg_Asraf_Ori_katz_Part_3\Library_Part_3\x64\Debug\Library.exe
